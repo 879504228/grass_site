@@ -2,7 +2,8 @@
 -----------------------------------------------------------
 前置要求： 安装好python
 自己找安装教程，安装最新的就行，进入cmd执行 python -V 出现下面结果则是成功
-![image](https://github.com/user-attachments/assets/7fa3a8e7-1fe6-453c-8909-cd805fea78d4)
+![image](https://github.com/user-attachments/assets/d62a9b0e-6d6f-4a01-8ead-0b3995e65c4c)
+
 
 1、 安装依赖：
   把代码解压到D盘（其实就是方便直接执行下面代码，如果你会的话，随便放在哪都行）：  
