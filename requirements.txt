@@ -1,2 +1,0 @@
-aiohttp==3.9.3
-aiohttp-socks==0.8.4
